@@ -1,4 +1,4 @@
-## Hi 👋 My name is Chiu Linh Phat
+## Hi 👋 My name is Chìu Linh Phát
 
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=33FFFF&center=true&vCenter=true&width=477&lines=Backend+Developer" alt="Typing SVG" /></a>
